@@ -1,0 +1,2 @@
+# BuilderGeneratyor
+IDEA Plugin
